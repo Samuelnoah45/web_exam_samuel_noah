@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## some screenshots
+##ome screenshots
 
 with out filter
 https://res.cloudinary.com/blue-sky/image/upload/v1722939682/Screenshot_from_2024-08-06_13-20-31_bylk0g.png
